@@ -1,1 +1,1 @@
-Youtube MP3 downloader for [https://travelagu.com](Travelagu.com)
+Youtube MP3 downloader for [Travelagu.com](https://travelagu.com)
